@@ -1,7 +1,7 @@
 # Imagen base MySQL 8 oficial
 FROM mysql:8
 
-# esto se agrega para testear
+# esto se agrega para testear sigo testeando
 
 # Variables de entorno (se aplicarán automáticamente al iniciar el contenedor)
 ENV MYSQL_ROOT_PASSWORD=admin123
